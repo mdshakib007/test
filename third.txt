@@ -1,0 +1,2 @@
+this is third text file
+and this is line 2
