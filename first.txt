@@ -2,3 +2,4 @@ this is first text.
 added line 2
 added line 3
 added 1 more line.
+added more line.
